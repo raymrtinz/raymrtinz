@@ -1,11 +1,16 @@
 ## Hi there 👋
 
+# I'm Ray, an Information Technology student at DLSU. I am currently a Web Manager at Green & White, and Web Developer at The LaSallian.
+
+- 🔭 I’m currently working on our Capstone Project as part of my IT degree program
+- 🌱 I’m currently learning Secure System Development Lifecycle, Project Management, and Special Enterprise Systems
+
 <!--
 **raymrtinz/raymrtinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  🔭I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
