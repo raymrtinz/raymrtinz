@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Ray, an Information Technology student at DLSU. I am currently a Web Manager at Green & White, and Web Developer at The LaSallian.
+#### I'm Ray, an Information Technology student at DLSU. I am currently a Web Manager at Green & White, and Web Developer at The LaSallian.
 
 - 🔭 I’m currently working on our Capstone Project as part of my IT degree program
 - 🌱 I’m currently learning Secure System Development Lifecycle, Project Management, and Special Enterprise Systems
